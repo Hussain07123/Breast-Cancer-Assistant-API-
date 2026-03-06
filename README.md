@@ -1,4 +1,4 @@
-# AI/ML Portfolio Project: Breast Cancer Risk Classifier
+# AI/ML Project: Breast Cancer Risk Classifier
 
 This project is a complete machine learning pipeline you can showcase on GitHub:
 - Data loading from a real dataset (`sklearn` breast cancer dataset)
@@ -125,12 +125,3 @@ PY
 pytest -q
 ```
 
-## Portfolio Notes (Add this to your resume)
-
-- Built and validated an end-to-end ML classification pipeline with model selection and ROC-AUC optimization.
-- Packaged inference into both CLI and REST API interfaces.
-- Added reproducible artifacts (model, metadata, metrics) for deployment and auditability.
-
-## Important
-
-This model is a technical demo for learning and portfolio purposes only, not a medical diagnostic tool.
